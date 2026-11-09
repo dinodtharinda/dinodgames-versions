@@ -1,4 +1,5 @@
 {
     "package": "com.dinodgames.deadhighway",
-    "version": "1.0.19"
+    "android": "1.0.19",
+    "ios":"1.0.19",
 }
